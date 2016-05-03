@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "5dac4b24-58db-8548-87d3-be39c6e40b81++1456" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5dac4b24-58db-8548-87d3-be39c6e40b81++1456" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3835E13E-0039-41F1-949C-FFC06E942142",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5dac4b24-58db-8548-87d3-be39c6e40b81++1456" : "%E4%B8%AA%E4%BA%BA%E6%96%87%E6%A1%A3\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PageScrollViewDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "效率的东西\/相关demo\/PageScrollViewDemo\/PageScrollViewDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.0.206\/svn\/iostender",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5dac4b24-58db-8548-87d3-be39c6e40b81++1456"
+    }
+  ]
+}
